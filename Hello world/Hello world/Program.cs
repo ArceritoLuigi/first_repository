@@ -10,10 +10,8 @@ namespace Hello_world
     {
         static void Main(string[] args)
         {
-            while (true)
-            {
-                Console.WriteLine("Hello world");
-            }
+            Console.WriteLine("Hello world");
+            Console.ReadLine();
         }
     }
 }
